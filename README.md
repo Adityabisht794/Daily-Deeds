@@ -68,6 +68,19 @@ Welcome to my learning repository where I document my journey of mastering **Go 
 - [ ] Kubernetes Basics
 
 ---
+## 🗄️ Database & SQL
+
+- [ ] Basic SQL Queries
+- [ ] JOINs
+- [ ] GROUP BY & HAVING
+- [ ] Subqueries
+- [ ] Window Functions
+- [ ] Database Design
+- [ ] Normalization
+- [ ] Indexing
+- [ ] Transactions
+- [ ] Query Optimization
+- [ ] PostgreSQL
 
 # 💻 LeetCode Progress
 

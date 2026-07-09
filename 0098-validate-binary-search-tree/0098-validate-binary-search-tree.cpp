@@ -10,26 +10,22 @@
  * };
  */
 class Solution {
-public:
-void check(TreeNode* root, bool &flag, long long low, long long high)
-{
-    if (!root || !flag)
-        return;
-
-    if (root->val <= low || root->val >= high)
+    public:
+    bool check(TreeNode* root, long long low, long long high)
     {
-        flag = false;
-        return;
+        if (!root)
+            return true;
+
+        if (root->val <= low || root->val >= high)
+        {
+            return false;
+        }
+
+        return check(root->left, low, root->val) && check(root->right, root->val, high);
     }
 
-    check(root->left, flag, low, root->val);
-    check(root->right, flag, root->val, high);
-}
-
-bool isValidBST(TreeNode* root)
-{
-    bool flag = true;
-    check(root, flag, LLONG_MIN, LLONG_MAX);
-    return flag;
-}
+    bool isValidBST(TreeNode* root)
+    {
+        return check(root, LLONG_MIN, LLONG_MAX);
+    }
 };

@@ -69,6 +69,7 @@ Total Solved: **0**
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Total Solved: **0**
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,4 +109,16 @@ Total Solved: **0**
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->

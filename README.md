@@ -59,6 +59,7 @@ Consistently solving **LeetCode problems**.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0007-reverse-integer) |
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer

@@ -51,10 +51,12 @@ Total Solved: **0**
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -63,6 +65,7 @@ Total Solved: **0**
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
 ## Array
 |  |
@@ -121,4 +124,8 @@ Total Solved: **0**
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

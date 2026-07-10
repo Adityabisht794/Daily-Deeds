@@ -4,21 +4,17 @@ public:
         int n=v.size();
         vector<int>a(n);
         vector<int>b(n);
-        int sum=0;
+        int rsum=0;
         for(int i=0;i<n;i++)
         {
-            sum+=v[i];
-            a[i]=sum;
+            rsum+=v[i];
         }
-        sum=0;
-        for(int i=n-1;i>=0;i--)
-        {
-            sum+=v[i];
-            b[i]=sum;
-        }
+        int lsum=0;
         for(int i=0;i<n;i++)
         {
-            if(a[i]==b[i]) return i;
+            rsum-=v[i];
+            if(lsum==rsum) return i;
+            lsum+=v[i];
         }
         return -1;
     }

@@ -41,6 +41,7 @@ Consistently solving **LeetCode problems**.
 | [0001-two-sum](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0120-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
@@ -116,4 +117,5 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0118-pascals-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->

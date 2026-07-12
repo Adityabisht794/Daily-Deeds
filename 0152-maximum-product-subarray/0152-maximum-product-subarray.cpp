@@ -12,7 +12,7 @@ public:
                 sum*=v[j];
                 maxi=max(sum,maxi);
             }
-            maxi=max(sum,maxi);
+            
         }
         return maxi;
     }

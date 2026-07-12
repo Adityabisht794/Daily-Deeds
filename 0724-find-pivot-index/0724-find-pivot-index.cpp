@@ -2,8 +2,6 @@ class Solution {
 public:
     int pivotIndex(vector<int>&v) {
         int n=v.size();
-        vector<int>a(n);
-        vector<int>b(n);
         int rsum=0;
         for(int i=0;i<n;i++)
         {

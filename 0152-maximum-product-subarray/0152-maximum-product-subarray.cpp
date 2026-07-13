@@ -3,16 +3,22 @@ public:
     int maxProduct(vector<int>& v) {
         int n=v.size();
         int maxi=INT_MIN;
+        int curr=1;
         for(int i=0;i<n;i++)
         {
-            int sum=v[i];
-            maxi=max(sum,maxi);
-            for(int j=i+1;j<n;j++)
-            {
-                sum*=v[j];
-                maxi=max(sum,maxi);
-            }
-            
+            curr=curr*v[i];
+            maxi=max(curr,maxi);
+            if(curr==0)
+            curr=1;
+        }
+        curr=1;
+        for(int i=n-1;i>=0;i--)
+        {
+          curr=curr*v[i];
+
+          maxi=max(curr,maxi);
+          if(curr==0)
+           curr=1;
         }
         return maxi;
     }

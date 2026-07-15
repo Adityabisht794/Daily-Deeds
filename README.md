@@ -16,6 +16,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0008-string-to-integer-atoi) |
+| [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Consistently solving **LeetCode problems**.
 | [0118-pascals-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
@@ -99,6 +101,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0001-two-sum](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -127,10 +130,19 @@ Consistently solving **LeetCode problems**.
 | [0118-pascals-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
 ## Matrix
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0240-search-a-2d-matrix-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

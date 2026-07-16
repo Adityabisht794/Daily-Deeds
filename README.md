@@ -52,10 +52,12 @@ Consistently solving **LeetCode problems**.
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Consistently solving **LeetCode problems**.
 | [0007-reverse-integer](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0007-reverse-integer) |
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +91,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -145,4 +149,12 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

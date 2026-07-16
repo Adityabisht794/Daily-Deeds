@@ -1,29 +1,23 @@
 class Solution {
 public:
-    long long gcdSum(vector<int>& nums) {
-        int n = nums.size();
-
-        int mx = 0;
-        vector<int> prefixGcd;
-        prefixGcd.reserve(n);
-
-        for (int x : nums) {
-            mx = max(mx, x);
-            prefixGcd.push_back(gcd(mx, x));
+    long long gcdSum(vector<int>& v) {
+        int n=v.size();
+        int maxi=INT_MIN;
+        vector<int>ans;
+        for (int i :v)
+        {
+            maxi=max(maxi,i);
+            int temp=gcd(maxi,i);
+            ans.push_back(temp);
         }
-
-        sort(prefixGcd.begin(), prefixGcd.end());
-
-        long long ans = 0;
-
-        int l = 0, r = n - 1;
-
-        while (l < r) {
-            ans += gcd(prefixGcd[l], prefixGcd[r]);
-            l++;
-            r--;
+        sort(ans.begin(),ans.end());
+        long long sum=0;
+        int l=0;
+        int r=n-1;
+        while(l<r)
+        {
+            sum+=gcd(ans[l++],ans[r--]);
         }
-
-        return ans;
+        return sum;
     }
 };

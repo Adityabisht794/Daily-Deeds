@@ -48,6 +48,7 @@ Consistently solving **LeetCode problems**.
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
+| [0605-can-place-flowers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
@@ -158,4 +159,8 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->

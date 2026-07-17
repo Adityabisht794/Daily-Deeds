@@ -53,6 +53,7 @@ Consistently solving **LeetCode problems**.
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -66,6 +67,7 @@ Consistently solving **LeetCode problems**.
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
@@ -78,6 +80,7 @@ Consistently solving **LeetCode problems**.
 | [0007-reverse-integer](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0007-reverse-integer) |
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -109,6 +112,7 @@ Consistently solving **LeetCode problems**.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -130,6 +134,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0724-find-pivot-index) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,9 +163,18 @@ Consistently solving **LeetCode problems**.
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0605-can-place-flowers) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

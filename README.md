@@ -30,12 +30,14 @@ Consistently solving **LeetCode problems**.
 | [0098-validate-binary-search-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Consistently solving **LeetCode problems**.
 | [0120-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
@@ -126,6 +129,7 @@ Consistently solving **LeetCode problems**.
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0200-number-of-islands) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -156,6 +160,7 @@ Consistently solving **LeetCode problems**.
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0240-search-a-2d-matrix-ii) |
 ## Trie
 |  |

@@ -22,13 +22,13 @@ public:
             else temp+=s[i];
         }
 
-        string ans = "";
+        s.clear();
 
         for (int i = words.size() - 1; i >= 0; i--) {
-            ans += words[i];
-            if (i > 0) ans += " ";
+            s += words[i];
+            if (i > 0) s += " ";
         }
 
-        return ans;
+        return s;
     }
 };

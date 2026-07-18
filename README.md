@@ -22,6 +22,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -29,6 +30,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0543-diameter-of-binary-tree) |
@@ -43,6 +45,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0543-diameter-of-binary-tree) |
 ## Array
@@ -192,4 +195,8 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

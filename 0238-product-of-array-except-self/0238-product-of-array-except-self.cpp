@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& v) {
         int n=v.size();
-        vector<int> a(n,1);
+        vector<int> a(n);
         int prefix=1;
         int suffix=1;
         for(int i=0;i<n;i++)

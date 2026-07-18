@@ -17,6 +17,7 @@ Consistently solving **LeetCode problems**.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0008-string-to-integer-atoi) |
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0345-reverse-vowels-of-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0345-reverse-vowels-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |

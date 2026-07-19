@@ -19,6 +19,7 @@ Consistently solving **LeetCode problems**.
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
@@ -82,6 +83,7 @@ Consistently solving **LeetCode problems**.
 | [0283-move-zeroes](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0392-is-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -169,6 +171,7 @@ Consistently solving **LeetCode problems**.
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
 | ------- |

@@ -56,6 +56,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0120-triangle) |
@@ -79,6 +80,7 @@ Consistently solving **LeetCode problems**.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
@@ -198,6 +200,7 @@ Consistently solving **LeetCode problems**.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Combinatorics

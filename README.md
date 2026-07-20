@@ -72,6 +72,7 @@ Consistently solving **LeetCode problems**.
 | [0643-maximum-average-subarray-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
+| [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -181,6 +182,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0200-number-of-islands](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |
 ## Trie
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Consistently solving **LeetCode problems**.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |

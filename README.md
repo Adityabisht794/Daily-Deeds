@@ -76,6 +76,7 @@ Consistently solving **LeetCode problems**.
 | [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
@@ -167,6 +168,7 @@ Consistently solving **LeetCode problems**.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Consistently solving **LeetCode problems**.
 | [0152-maximum-product-subarray](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |

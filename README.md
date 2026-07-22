@@ -69,6 +69,7 @@ Consistently solving **LeetCode problems**.
 | [0283-move-zeroes](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0724-find-pivot-index) |
@@ -215,6 +216,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Combinatorics

@@ -80,6 +80,7 @@ Consistently solving **LeetCode problems**.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Adityabisht794/Daily-Deeds/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -148,6 +149,7 @@ Consistently solving **LeetCode problems**.
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Adityabisht794/Daily-Deeds/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find

@@ -23,6 +23,7 @@ Consistently solving **LeetCode problems**.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1657-determine-if-two-strings-are-close) |
+| [2390-removing-stars-from-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -240,6 +242,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |

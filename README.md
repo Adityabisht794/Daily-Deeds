@@ -75,6 +75,7 @@ Consistently solving **LeetCode problems**.
 | [0605-can-place-flowers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0735-asteroid-collision) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |
@@ -212,6 +213,7 @@ Consistently solving **LeetCode problems**.
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -241,6 +243,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0144-binary-tree-preorder-traversal) |
+| [0735-asteroid-collision](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack

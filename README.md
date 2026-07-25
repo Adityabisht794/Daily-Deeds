@@ -268,4 +268,8 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->

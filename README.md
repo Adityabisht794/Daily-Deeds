@@ -255,6 +255,7 @@ Consistently solving **LeetCode problems**.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -271,5 +272,6 @@ Consistently solving **LeetCode problems**.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->

@@ -34,6 +34,7 @@ Consistently solving **LeetCode problems**.
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0543-diameter-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Consistently solving **LeetCode problems**.
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0543-diameter-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Consistently solving **LeetCode problems**.
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0543-diameter-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0872-leaf-similar-trees) |
 ## Array
 |  |
 | ------- |

@@ -24,12 +24,9 @@ public:
         return ;
     }
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        vector<int>ans;
-        check(root1,ans);
-        vector<int>a = ans;
-        ans.clear();
-        check(root2,ans);
-        vector<int>b = ans;
+        vector<int>a,b;
+        check(root1,a);
+        check(root2,b);
         return (a==b)? true: false;
     }
 };

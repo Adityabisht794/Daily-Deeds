@@ -90,6 +90,7 @@ Consistently solving **LeetCode problems**.
 | [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -146,6 +147,7 @@ Consistently solving **LeetCode problems**.
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -153,6 +155,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |

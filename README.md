@@ -23,6 +23,7 @@ Consistently solving **LeetCode problems**.
 | [0394-decode-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0394-decode-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0583-delete-operation-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/2390-removing-stars-from-a-string) |
@@ -215,6 +216,7 @@ Consistently solving **LeetCode problems**.
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0583-delete-operation-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |

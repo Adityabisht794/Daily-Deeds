@@ -25,6 +25,7 @@ Consistently solving **LeetCode problems**.
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/2390-removing-stars-from-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Consistently solving **LeetCode problems**.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -294,4 +296,8 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0204-count-primes) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

@@ -10,20 +10,15 @@ public:
             dp[i][i] = 1;
 
         // Length of substring
-        for (int len = 2; len <= n; len++) {
+        for (int len = n-1; len >= 0; len--) {
 
             // Starting index
-            for (int i = 0; i <= n - len; i++) {
-
-                int j = i + len - 1;
-
-                if (s[i] == s[j]) {
-                    if (len == 2)
-                        dp[i][j] = 2;
-                    else
-                        dp[i][j] = 2 + dp[i + 1][j - 1];
-                } else {
-                    dp[i][j] = max(dp[i + 1][j], dp[i][j - 1]);
+            for (int i = len+1; i < n ; i++) {
+                if (s[len] == s[i]) {
+                    dp[len][i] = 2 + dp[len + 1][i - 1];
+                } 
+                else {
+                    dp[len][i] = max(dp[len + 1][i], dp[len][i - 1]);
                 }
             }
         }

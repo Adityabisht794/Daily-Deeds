@@ -16,6 +16,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0008-string-to-integer-atoi) |
+| [0072-edit-distance](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0345-reverse-vowels-of-a-string) |
@@ -209,6 +210,7 @@ Consistently solving **LeetCode problems**.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0120-triangle) |

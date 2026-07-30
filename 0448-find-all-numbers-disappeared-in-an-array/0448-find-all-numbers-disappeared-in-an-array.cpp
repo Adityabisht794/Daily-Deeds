@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& v) {
         
-        map<int,int> mp;
+        unordered_map<int,int> mp;
 
         for(int i=0;i<v.size();i++)
         {
@@ -16,7 +16,7 @@ public:
         {
             if(x.second==-1) ans.push_back(x.first);      
         }
-
+        sort(ans.begin(),ans.end());
         return ans;
     }
 };

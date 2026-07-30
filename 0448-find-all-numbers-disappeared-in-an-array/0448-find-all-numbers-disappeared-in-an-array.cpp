@@ -1,22 +1,15 @@
 class Solution {
 public:
-    vector<int> findDisappearedNumbers(vector<int>& v) {
+    vector<int> findDisappearedNumbers(vector<int>& nums) {
+        unordered_set<int> numSet(nums.begin(), nums.end());
+        vector<int> result;
         
-        unordered_map<int,int> mp;
-
-        for(int i=0;i<v.size();i++)
-        {
-            mp[v[i]]++;
-            mp[i+1]--;
+        for (int i = 1; i <= nums.size(); i++) {
+            if (numSet.find(i) == numSet.end()) {
+                result.push_back(i);
+            }
         }
-
-        vector<int> ans;
-
-        for(auto x:mp)
-        {
-            if(x.second==-1) ans.push_back(x.first);      
-        }
-        sort(ans.begin(),ans.end());
-        return ans;
+        
+        return result;        
     }
 };

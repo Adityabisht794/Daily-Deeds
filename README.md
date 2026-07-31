@@ -78,6 +78,7 @@ Consistently solving **LeetCode problems**.
 | [0119-pascals-triangle-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0204-count-primes) |
@@ -138,6 +139,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0628-maximum-product-of-three-numbers) |
@@ -283,6 +285,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |

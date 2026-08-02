@@ -97,6 +97,7 @@ Consistently solving **LeetCode problems**.
 | [0645-set-mismatch](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |
@@ -146,6 +147,7 @@ Consistently solving **LeetCode problems**.
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -238,6 +240,7 @@ Consistently solving **LeetCode problems**.
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0583-delete-operation-for-two-strings) |
+| [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
@@ -338,4 +341,5 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

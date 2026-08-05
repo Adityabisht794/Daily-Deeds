@@ -60,6 +60,7 @@ Consistently solving **LeetCode problems**.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Consistently solving **LeetCode problems**.
 | [0283-move-zeroes](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
@@ -245,6 +247,7 @@ Consistently solving **LeetCode problems**.
 | [0152-maximum-product-subarray](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0516-longest-palindromic-subsequence) |
@@ -361,4 +364,12 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1406-stone-game-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

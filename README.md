@@ -150,6 +150,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
@@ -242,6 +243,7 @@ Consistently solving **LeetCode problems**.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0119-pascals-triangle-ii) |
@@ -303,6 +305,7 @@ Consistently solving **LeetCode problems**.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |

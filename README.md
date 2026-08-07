@@ -143,6 +143,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0645-set-mismatch) |
 ## Math
@@ -250,6 +251,7 @@ Consistently solving **LeetCode problems**.
 | [0198-house-robber](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0516-longest-palindromic-subsequence) |

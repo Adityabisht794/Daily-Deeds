@@ -76,6 +76,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0001-two-sum](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0011-container-with-most-water) |
+| [0063-unique-paths-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0120-triangle) |
@@ -244,6 +245,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0119-pascals-triangle-ii) |
@@ -266,6 +268,7 @@ Consistently solving **LeetCode problems**.
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |

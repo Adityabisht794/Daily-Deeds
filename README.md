@@ -103,6 +103,7 @@ Consistently solving **LeetCode problems**.
 | [0645-set-mismatch](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1207-unique-number-of-occurrences) |
@@ -265,6 +266,7 @@ Consistently solving **LeetCode problems**.
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1406-stone-game-iii) |

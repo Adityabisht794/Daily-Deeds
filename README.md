@@ -120,6 +120,7 @@ Consistently solving **LeetCode problems**.
 | [3312-sorted-gcd-pair-queries](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3592-inverse-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3592-inverse-coin-change) |
+| [3693-climbing-stairs-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -269,6 +270,7 @@ Consistently solving **LeetCode problems**.
 | [1406-stone-game-iii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3592-inverse-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3592-inverse-coin-change) |
+| [3693-climbing-stairs-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
 | ------- |

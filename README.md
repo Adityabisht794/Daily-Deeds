@@ -164,6 +164,7 @@ Consistently solving **LeetCode problems**.
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -271,6 +272,7 @@ Consistently solving **LeetCode problems**.
 | [0583-delete-operation-for-two-strings](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -292,6 +294,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
+| [1137-n-th-tribonacci-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |

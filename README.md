@@ -28,6 +28,7 @@ Consistently solving **LeetCode problems**.
 | [1143-longest-common-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1657-determine-if-two-strings-are-close) |
+| [1668-maximum-repeating-substring](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1668-maximum-repeating-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -278,6 +279,7 @@ Consistently solving **LeetCode problems**.
 | [1143-longest-common-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1668-maximum-repeating-substring](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1668-maximum-repeating-substring) |
 | [3592-inverse-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3592-inverse-coin-change) |
 | [3693-climbing-stairs-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
@@ -410,4 +412,8 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1025-divisor-game) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->

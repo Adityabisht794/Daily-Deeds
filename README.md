@@ -164,6 +164,7 @@ Consistently solving **LeetCode problems**.
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -272,6 +273,7 @@ Consistently solving **LeetCode problems**.
 | [0583-delete-operation-for-two-strings](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1406-stone-game-iii) |
@@ -382,6 +384,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -399,4 +402,12 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0322-coin-change) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

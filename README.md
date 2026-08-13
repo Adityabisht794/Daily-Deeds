@@ -105,6 +105,7 @@ Consistently solving **LeetCode problems**.
 | [0645-set-mismatch](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
@@ -348,6 +349,7 @@ Consistently solving **LeetCode problems**.
 | [0394-decode-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -355,6 +357,7 @@ Consistently solving **LeetCode problems**.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion

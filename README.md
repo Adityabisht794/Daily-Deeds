@@ -129,6 +129,7 @@ Consistently solving **LeetCode problems**.
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3592-inverse-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3592-inverse-coin-change) |
 | [3693-climbing-stairs-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3693-climbing-stairs-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -157,6 +158,7 @@ Consistently solving **LeetCode problems**.
 | [0338-counting-bits](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0645-set-mismatch) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |

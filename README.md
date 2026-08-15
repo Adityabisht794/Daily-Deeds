@@ -136,6 +136,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0287-find-the-duplicate-number) |
@@ -386,6 +387,7 @@ Consistently solving **LeetCode problems**.
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0328-odd-even-linked-list) |
 ## Enumeration

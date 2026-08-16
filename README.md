@@ -108,6 +108,7 @@ Consistently solving **LeetCode problems**.
 | [0735-asteroid-collision](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0746-min-cost-climbing-stairs) |
+| [0874-walking-robot-simulation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1207-unique-number-of-occurrences) |
@@ -223,6 +224,7 @@ Consistently solving **LeetCode problems**.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0645-set-mismatch) |
+| [0874-walking-robot-simulation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0874-walking-robot-simulation) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1657-determine-if-two-strings-are-close) |
@@ -315,6 +317,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1929-concatenation-of-array) |

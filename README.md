@@ -170,6 +170,7 @@ Consistently solving **LeetCode problems**.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
@@ -281,6 +282,7 @@ Consistently solving **LeetCode problems**.
 | [0300-longest-increasing-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0338-counting-bits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
@@ -407,6 +409,7 @@ Consistently solving **LeetCode problems**.
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1025-divisor-game) |
@@ -414,6 +417,7 @@ Consistently solving **LeetCode problems**.
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1406-stone-game-iii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |

@@ -4,24 +4,32 @@ public:
                      vector<int>& p3, vector<int>& p4) {
 
         vector<vector<int>> p = {p1, p2, p3, p4};
-        vector<int> d;
+        unordered_map<int, int> mp;
 
         for (int i = 0; i < 4; i++) {
             for (int j = i + 1; j < 4; j++) {
                 int dx = p[i][0] - p[j][0];
                 int dy = p[i][1] - p[j][1];
 
-                d.push_back(dx * dx + dy * dy);
+                int d = dx * dx + dy * dy;
+                mp[d]++;
             }
         }
 
-        sort(d.begin(), d.end());
+        if (mp.size() != 2)
+            return false;
 
-        return d[0] > 0 &&
-               d[0] == d[1] &&
-               d[1] == d[2] &&
-               d[2] == d[3] &&
-               d[4] == 2 * d[0] &&
-               d[5] == 2 * d[0];
+        int side = 0, diagonal = 0;
+
+        for (auto [d, count] : mp) {
+            if (count == 4)
+                side = d;
+            else if (count == 2)
+                diagonal = d;
+            else
+                return false;
+        }
+
+        return side > 0 && diagonal == 2 * side;
     }
 };

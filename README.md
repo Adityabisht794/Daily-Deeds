@@ -114,6 +114,7 @@ Consistently solving **LeetCode problems**.
 | [1207-unique-number-of-occurrences](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1441-build-an-array-with-stack-operations) |
@@ -161,6 +162,7 @@ Consistently solving **LeetCode problems**.
 | [0338-counting-bits](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -229,6 +231,7 @@ Consistently solving **LeetCode problems**.
 | [0874-walking-robot-simulation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0874-walking-robot-simulation) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Adityabisht794/Daily-Deeds/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -341,6 +344,7 @@ Consistently solving **LeetCode problems**.
 | [0334-increasing-triplet-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Combinatorics

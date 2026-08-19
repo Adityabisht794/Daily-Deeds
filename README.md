@@ -175,6 +175,7 @@ Consistently solving **LeetCode problems**.
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
+| [0593-valid-square](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
@@ -194,6 +195,7 @@ Consistently solving **LeetCode problems**.
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0593-valid-square) |
 | [0973-k-closest-points-to-origin](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |

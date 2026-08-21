@@ -16,6 +16,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0151-reverse-words-in-a-string) |
@@ -281,6 +282,7 @@ Consistently solving **LeetCode problems**.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0070-climbing-stairs) |
@@ -390,6 +392,7 @@ Consistently solving **LeetCode problems**.
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0394-decode-string) |

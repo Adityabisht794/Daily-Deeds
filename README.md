@@ -23,6 +23,7 @@ Consistently solving **LeetCode problems**.
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0394-decode-string) |
+| [0459-repeated-substring-pattern](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0583-delete-operation-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -462,5 +463,14 @@ Consistently solving **LeetCode problems**.
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0459-repeated-substring-pattern) |
 | [1668-maximum-repeating-substring](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1668-maximum-repeating-substring) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->

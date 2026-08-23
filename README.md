@@ -26,6 +26,7 @@ Consistently solving **LeetCode problems**.
 | [0459-repeated-substring-pattern](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0583-delete-operation-for-two-strings) |
+| [0686-repeated-string-match](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0686-repeated-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -464,13 +465,20 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0686-repeated-string-match) |
 | [1668-maximum-repeating-substring](https://github.com/Adityabisht794/Daily-Deeds/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->

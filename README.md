@@ -99,6 +99,7 @@ Consistently solving **LeetCode problems**.
 | [0322-coin-change](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
 | [0575-distribute-candies](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0575-distribute-candies) |
@@ -181,6 +182,7 @@ Consistently solving **LeetCode problems**.
 | [0204-count-primes](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
 | [0593-valid-square](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0628-maximum-product-of-three-numbers) |
@@ -236,6 +238,7 @@ Consistently solving **LeetCode problems**.
 | [0001-two-sum](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0139-word-break) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0645-set-mismatch) |
@@ -403,6 +406,7 @@ Consistently solving **LeetCode problems**.
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -481,4 +485,8 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0686-repeated-string-match) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

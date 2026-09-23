@@ -180,6 +180,7 @@ Consistently solving **LeetCode problems**.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -405,6 +406,7 @@ Consistently solving **LeetCode problems**.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Adityabisht794/Daily-Deeds/tree/master/0486-predict-the-winner) |
